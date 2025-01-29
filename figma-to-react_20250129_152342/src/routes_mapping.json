@@ -1,0 +1,7 @@
+[
+  {
+    "component_name": "Login",
+    "route": "/Login",
+    "routing_config": {}
+  }
+]
