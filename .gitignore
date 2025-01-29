@@ -1,6 +1,10 @@
+# Project-specific ignores
 .DS_Store
 .env
 build/
+figma-to-react_20250129_113719/.env
+figma-to-react_20250129_113719/build/
+figma-to-react_20250129_113719/node_modules/
 figma-to-react_20250129_142950/.env
 figma-to-react_20250129_142950/build/
 figma-to-react_20250129_142950/node_modules/
