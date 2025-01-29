@@ -76,7 +76,7 @@ const Login: React.FC = () => {
           
           <div className={`${styles['class-7']} WelcomeToPromptoraHealthcare`} id="welcome-message">
             <span className={styles['class-8']}>Welcome to</span>
-            <span className={styles['class-9']}> XYZ Healthcare</span>
+            <span className={styles['class-9']}> Promptora Healthcare</span>
           </div>
 
           <div className={`${styles['class-10']} NoAccountSignUp`} id="signup-prompt">
