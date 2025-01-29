@@ -1,0 +1,7 @@
+.DS_Store
+.env
+build/
+figma-to-react_20250129_125200/.env
+figma-to-react_20250129_125200/build/
+figma-to-react_20250129_125200/node_modules/
+node_modules/
