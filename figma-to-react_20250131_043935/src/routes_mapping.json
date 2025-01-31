@@ -1,0 +1,37 @@
+[
+  {
+    "component_name": "FindADoctorPage",
+    "route": "/FindADoctorPage",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Formdr",
+    "route": "/Formdr",
+    "routing_config": {}
+  },
+  {
+    "component_name": "FormdrGeneralPhy",
+    "route": "/FormdrGeneralPhy",
+    "routing_config": {}
+  },
+  {
+    "component_name": "GeneralPhysician",
+    "route": "/GeneralPhysician",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Homepage",
+    "route": "/Homepage",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Login",
+    "route": "/Login",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Popup",
+    "route": "/Popup",
+    "routing_config": {}
+  }
+]
