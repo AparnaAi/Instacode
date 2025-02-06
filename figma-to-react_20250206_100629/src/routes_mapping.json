@@ -1,0 +1,62 @@
+[
+  {
+    "component_name": "Account_Management",
+    "route": "/Account_Management",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Adduser",
+    "route": "/Adduser",
+    "routing_config": {}
+  },
+  {
+    "component_name": "BillPay",
+    "route": "/BillPay",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Card_Management",
+    "route": "/Card_Management",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Deleteuser",
+    "route": "/Deleteuser",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Frame2",
+    "route": "/Frame2",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Frame3",
+    "route": "/Frame3",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Listuser",
+    "route": "/Listuser",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Loginuser",
+    "route": "/Loginuser",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Report",
+    "route": "/Report",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Transaction",
+    "route": "/Transaction",
+    "routing_config": {}
+  },
+  {
+    "component_name": "Updateuser",
+    "route": "/Updateuser",
+    "routing_config": {}
+  }
+]
